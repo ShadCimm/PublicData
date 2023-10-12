@@ -1,0 +1,138 @@
+{
+  "familia": [
+    {
+      "nombre": "Carlos",
+      "apellido": "González",
+      "edad": 45,
+      "relaciones": {
+        "hijos": [
+          {
+            "nombre": "María",
+            "apellido": "González",
+            "edad": 18
+          },
+          {
+            "nombre": "Pedro",
+            "apellido": "González",
+            "edad": 15
+          }
+        ],
+        "pareja": {
+          "nombre": "Ana",
+          "apellido": "Gómez",
+          "edad": 42
+        }
+      }
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Gómez",
+      "edad": 42,
+      "relaciones": {
+        "hijos": [
+          {
+            "nombre": "María",
+            "apellido": "González",
+            "edad": 18
+          },
+          {
+            "nombre": "Pedro",
+            "apellido": "González",
+            "edad": 15
+          }
+        ],
+        "pareja": {
+          "nombre": "Carlos",
+          "apellido": "González",
+          "edad": 45
+        }
+      }
+    },
+    {
+      "nombre": "María",
+      "apellido": "González",
+      "edad": 18,
+      "relaciones": {
+        "padres": [
+          {
+            "nombre": "Carlos",
+            "apellido": "González",
+            "edad": 45
+          },
+          {
+            "nombre": "Ana",
+            "apellido": "Gómez",
+            "edad": 42
+          }
+        ],
+        "hermano": {
+          "nombre": "Pedro",
+          "apellido": "González",
+          "edad": 15
+        }
+      }
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "González",
+      "edad": 15,
+      "relaciones": {
+        "padres": [
+          {
+            "nombre": "Carlos",
+            "apellido": "González",
+            "edad": 45
+          },
+          {
+            "nombre": "Ana",
+            "apellido": "Gómez",
+            "edad": 42
+          }
+        ],
+        "hermano": {
+          "nombre": "María",
+          "apellido": "González",
+          "edad": 18
+        }
+      }
+    },
+    {
+      "nombre": "Luis",
+      "apellido": "Martínez",
+      "edad": 70,
+      "relaciones": {
+        "hijos": [
+          {
+            "nombre": "Carlos",
+            "apellido": "González",
+            "edad": 45
+          }
+        ],
+        "pareja": {
+          "nombre": "María",
+          "apellido": "López",
+          "edad": 68
+        }
+      }
+    },
+    {
+      "nombre": "María",
+      "apellido": "López",
+      "edad": 68,
+      "relaciones": {
+        "hijos": [
+          {
+            "nombre": "Carlos",
+            "apellido": "González",
+            "edad": 45
+          }
+        ],
+        "pareja": {
+          "nombre": "Luis",
+          "apellido": "Martínez",
+          "edad": 70
+        }
+      }
+    }
+  ]
+}
